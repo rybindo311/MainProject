@@ -1,0 +1,2 @@
+E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\Definitions.MainProject.h
+E:\UA Projects\MainProject\Source\MainProject\MainProject.h
