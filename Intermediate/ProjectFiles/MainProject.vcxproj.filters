@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MainProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5C582E3F-64C9-4E89-B01A-70512AAD1881}</UniqueIdentifier>
+      <UniqueIdentifier>{F53959B7-BD4B-4850-841B-2E3EB5B697F8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MainProject.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\MainProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{0A9CDCA5-5701-4C59-856B-ACD99596ABBE}</UniqueIdentifier>
+      <UniqueIdentifier>{AE0D6609-E41F-40CB-9172-68FC2A28C9F2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +25,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\MainProject">
-      <UniqueIdentifier>{8F23B070-ADA0-459A-9CB3-923B850BB228}</UniqueIdentifier>
+      <UniqueIdentifier>{6E1FC518-F625-4770-8DAF-7853D5019C3F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MainProject\MainProject.Build.cs">
       <Filter>Source\MainProject</Filter>
@@ -40,6 +45,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\MainProject\MainProjectGameModeBase.h">
       <Filter>Source\MainProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\MainProject\Private">
+      <UniqueIdentifier>{FD5546A8-8889-4E08-819C-01126EB2B22A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MainProject\Private\Characters">
+      <UniqueIdentifier>{983E6DF4-609D-4928-BC09-4819BCD8E60E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MainProject\Private\Characters\GC_BasePawn.cpp">
+      <Filter>Source\MainProject\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\MainProject\Public">
+      <UniqueIdentifier>{F6E1617B-ACD9-4B48-85DA-27CED17BF36E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MainProject\Public\Characters">
+      <UniqueIdentifier>{B1DCF62C-60D1-4B01-AD33-29F0A4C8F423}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MainProject\Public\Characters\GC_BasePawn.h">
+      <Filter>Source\MainProject\Public\Characters</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
