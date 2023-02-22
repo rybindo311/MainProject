@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MainProject-6458.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\MainProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\GC_BasePawn.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\GC_BasePawnMovementComponent.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\MainProject.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\MainProjectGameModeBase.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\GC_BasePawn.gen.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\GC_BasePawnMovementComponent.gen.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\MainProject.init.gen.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\MainProjectGameModeBase.gen.cpp.obj"
+"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\Default.rc2.res"
+/OUT:"E:\UA Projects\MainProject\Intermediate\Build\Win64\UE4Editor\Development\MainProject\UE4Editor-MainProject-6458.lib"
